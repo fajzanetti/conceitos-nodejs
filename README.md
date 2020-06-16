@@ -13,7 +13,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/fajzanetti/conceitos-nodejs?color=34CB79" />
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/fajzanetti/conceitos-nodejs?color=34CB79" />
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/fajzanetti/conceitos-nodejs?color=34CB79" />
-    <img alt="Nota Rocketseat" src="https://img.shields.io/badge/Nota-Pendente-34CB79" />
+    <img alt="Nota Rocketseat" src="https://img.shields.io/badge/Nota-10-34CB79" />
     <img alt="Data de entrega" src="https://img.shields.io/badge/Data%20de%20entrega-16%2F06%2F2020-34CB79" />
 </p>
 <p align="center">
