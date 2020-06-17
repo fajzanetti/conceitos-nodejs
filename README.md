@@ -50,6 +50,7 @@ Essa será uma aplicação para armazenar repositórios do seu portfólio, que i
     <p align="left">🟣 Podemos ver aqui um <strong>[GET] http:localhost:3333/repositories</strong> no qual é utilizado para a listagem dos repositórios após toda essa sequência de passos acima.</p>
     <img alt="Get Repos" title="Get Repos" src=".github/Get Repo Delete.PNG" />
 </div>
+
 ---
 
 Desenvolvido com 💚 por [Felipe Zanetti!](https://www.linkedin.com/in/felipezanetti/)
