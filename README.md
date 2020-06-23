@@ -29,8 +29,12 @@ Essa será uma aplicação para armazenar repositórios do seu portfólio, que i
 
 # 🚧 Projeto 
 <div align="center">
-    <p align="left">Utilizando o Insomnia para ter uma resposta visual das requisições:</br></br>
-    🟣 Podemos ver aqui um <strong>[GET] http:localhost:3333/repositories</strong> no qual é utilizado para a listagem dos repositórios.</p>
+    <p align="left">Utilizando o Insomnia para ter uma resposta visual das requisições:</br></br></p>
+    <p align="left">🟣 Requisição GET.</p>
+    <p align="left">🟢 Requisição POST.</p>
+    <p align="left">🟠 Requisição PUT.</p>
+    <p align="left">🔴 Requisição DELETE.</br></br></p>
+    <p align="left">🟣 Podemos ver aqui um <strong>[GET] http:localhost:3333/repositories</strong> no qual é utilizado para a listagem dos repositórios.</p>
     <img alt="Get Repos" title="Get Repos" src=".github/Get Repos.PNG" />
     <p align="left">🟢 Podemos ver aqui um 
     <strong>[POST] http:localhost:3333/repositories</strong> no qual é utilizado para criação de uma novo repositório.</p>
