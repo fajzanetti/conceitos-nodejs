@@ -21,7 +21,7 @@
   <a href="#-Projeto">🚧 Projeto</a>
 </p>
 <p align="center">🚫&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/fajzanetti/conceitos-reactjs">Próximo Desafio ▶</a>
+  <a href="https://github.com/fajzanetti/conceitos-reactjs#readme">Próximo Desafio ➡</a>
 </p>
 
 # 🚀 Sobre o desafio
